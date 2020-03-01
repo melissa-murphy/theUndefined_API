@@ -1,6 +1,7 @@
 # Personal
 .history
 .vscode
+.env
 # File created using '.gitignore Generator' for Visual Studio Code: https://bit.ly/vscode-gig
 
 # Created by https://www.gitignore.io/api/windows,visualstudiocode,django,python
