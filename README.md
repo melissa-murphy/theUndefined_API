@@ -16,8 +16,10 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> 
     <br> 
+An API built for CS26 Build Week 1 for a MUD game, written with Django.
+
 </p>
 
 ## 📝 Table of Contents
